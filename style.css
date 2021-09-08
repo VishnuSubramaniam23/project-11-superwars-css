@@ -1,4 +1,45 @@
 .footer{
-  margin-left : 80px;
+  margin-left : 40px;
   font-size : 18px;
+}
+.parent{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 2px solid gray;
+  margin:20px;
+  height: 500px;
+}
+.c1{
+  text-align: center;
+  border: 2px solid gray;
+  margin: 20px;
+ 
+  height: 180px;
+  padding: 20px;
+}
+.c2{
+  text-align: center;
+  margin: 20px;
+  border: 2px solid gray;
+  height: 180px;
+  padding: 20px;
+}
+.c3{
+  text-align: center;
+  margin: 20px;
+  border: 2px solid gray;
+  height: 180px;
+  padding: 20px;
+}
+.c4{
+  text-align: center;
+  margin: 20px;
+  border: 2px solid gray;
+  height: 180px;
+  padding: 20px;
+}
+.score{
+  margin: 30px;
+  font-size: 50px;
 }
